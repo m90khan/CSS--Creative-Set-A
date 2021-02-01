@@ -33,8 +33,7 @@
   color: aliceblue;
 }
 .btn-hover1:before {
-  content: "";
-
+  content: '';
   position: absolute;
   left: 0;
   top: 0%;
@@ -60,7 +59,7 @@
   color: aliceblue;
 }
 .btn-hover2::before {
-  content: "";
+  content: '';
 
   position: absolute;
   left: 0;
@@ -86,7 +85,7 @@
   color: aliceblue;
 }
 .btn-hover3:before {
-  content: "";
+  content: '';
   border-style: none;
   position: absolute;
   left: 0;
@@ -126,7 +125,7 @@
   color: aliceblue;
 }
 .btn-hover5:before {
-  content: "Yeah!";
+  content: 'Yeah!';
   border-style: none;
   position: absolute;
   left: 0;
@@ -157,7 +156,7 @@
   background-color: rgb(74, 18, 228);
 }
 .btn-hover6:before {
-  content: "";
+  content: '';
   border-style: none;
   position: absolute;
   left: 0;
@@ -182,7 +181,7 @@
   background-color: #000;
 }
 .btn-hover7:before {
-  content: "Hover Me";
+  content: 'Hover Me';
   position: absolute;
   left: 0;
   top: 0;
@@ -200,7 +199,7 @@
 }
 
 .btn-hover7:after {
-  content: "You followed Me";
+  content: 'You followed Me';
   position: absolute;
   left: 0;
   top: 0;
@@ -229,7 +228,7 @@
   color: aliceblue;
 }
 .btn-hover8:before {
-  content: "Hover Me";
+  content: 'Hover Me';
   position: absolute;
   left: 0;
   top: 0;
@@ -258,7 +257,7 @@
   color: aliceblue;
 }
 .btn-hover9:before {
-  content: " ";
+  content: ' ';
   position: absolute;
   left: 0;
   top: 0;
@@ -287,7 +286,7 @@
   background-color: #000;
 }
 .btn-hover10:before {
-  content: "Green Me";
+  content: 'Green Me';
   position: absolute;
   left: 0;
   top: 0;
@@ -306,7 +305,7 @@
   transform: rotateX(0);
 }
 .btn-hover10:after {
-  content: "Red Me";
+  content: 'Red Me';
   position: absolute;
   left: 0;
   top: 0;
@@ -338,7 +337,7 @@
   background-color: #000;
 }
 .btn-hover11:before {
-  content: "Green Me";
+  content: 'Green Me';
   position: absolute;
   left: 0;
   top: 0;
@@ -357,7 +356,7 @@
   opacity: 0;
 }
 .btn-hover11:after {
-  content: "Red Me";
+  content: 'Red Me';
   position: absolute;
   left: -100%;
   top: 0;
@@ -509,7 +508,7 @@
   overflow: hidden;
 }
 .btn-menu4:before {
-  content: "";
+  content: '';
   position: absolute;
   width: 2rem;
   height: 2rem;
@@ -523,7 +522,7 @@
   z-index: -1;
 }
 .btn-menu4:after {
-  content: "";
+  content: '';
   position: absolute;
   width: 2rem;
   height: 2rem;
@@ -574,7 +573,7 @@
   color: #f1f1f1;
 }
 .icon::before {
-  content: "";
+  content: '';
   position: absolute;
   width: 120%;
   height: 120%;
@@ -791,7 +790,7 @@
 }
 
 .clip-heading:before {
-  content: "Text";
+  content: 'Text';
   position: absolute;
   left: 0;
   top: 0;
