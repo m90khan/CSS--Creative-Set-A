@@ -27,6 +27,8 @@ CSS creative animations <br />
 ### About the Project
 
 Live: https://m90khan.github.io/CSS--Creative-Set-A/
+
+CSS Animation Kit B: https://github.com/m90khan/CSS--Creative-Set-B
 <img src="./img/css-setA.gif">
 <img src="./img/overview.jpg">
 
